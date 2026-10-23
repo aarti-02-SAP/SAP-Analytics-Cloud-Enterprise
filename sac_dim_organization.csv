@@ -1,0 +1,20 @@
+Entity_ID,Entity_Name,Parent_ID,Region,Country,City,Currency,Lat,Long
+CORP_HQ,Novalis Global Group HQ,,Corporate,Netherlands,Amsterdam,EUR,52.3676,4.9041
+REG_NA,North America Region Hub,CORP_HQ,North America,USA,New York,USD,40.7128,-74.006
+REG_EMEA,EMEA Region Hub,CORP_HQ,EMEA,Germany,Frankfurt,EUR,50.1109,8.6821
+REG_APAC,APAC Region Hub,CORP_HQ,APAC,Singapore,Singapore,SGD,1.3521,103.8198
+REG_LATAM,LATAM Region Hub,CORP_HQ,LATAM,Brazil,Sao Paulo,BRL,-23.5505,-46.6333
+LE_US_EAST,Novalis US East LLC,REG_NA,North America,USA,New York,USD,40.7128,-74.006
+LE_US_WEST,Novalis US West Inc,REG_NA,North America,USA,San Francisco,USD,37.7749,-122.4194
+LE_US_SOUTH,Novalis US South LP,REG_NA,North America,USA,Austin,USD,30.2672,-97.7431
+LE_CA_ONT,Novalis Canada Corp,REG_NA,North America,Canada,Toronto,CAD,43.6532,-79.3832
+LE_DE_CENTRAL,Novalis Deutschland GmbH,REG_EMEA,EMEA,Germany,Frankfurt,EUR,50.1109,8.6821
+LE_UK_LON,Novalis UK Holdings Ltd,REG_EMEA,EMEA,United Kingdom,London,GBP,51.5074,-0.1278
+LE_FR_PAR,Novalis France SAS,REG_EMEA,EMEA,France,Paris,EUR,48.8566,2.3522
+LE_NL_BENELUX,Novalis Benelux BV,REG_EMEA,EMEA,Netherlands,Amsterdam,EUR,52.3676,4.9041
+LE_JP_TYO,Novalis Japan KK,REG_APAC,APAC,Japan,Tokyo,JPY,35.6762,139.6503
+LE_SG_HQ,Novalis Singapore Pte Ltd,REG_APAC,APAC,Singapore,Singapore,SGD,1.3521,103.8198
+LE_AU_SYD,Novalis Australia Pty Ltd,REG_APAC,APAC,Australia,Sydney,AUD,-33.8688,151.2093
+LE_IN_BLR,Novalis India Tech Pvt Ltd,REG_APAC,APAC,India,Bangalore,INR,12.9716,77.5946
+LE_BR_SP,Novalis do Brasil Ltda,REG_LATAM,LATAM,Brazil,Sao Paulo,BRL,-23.5505,-46.6333
+LE_MX_CDMX,Novalis Mexico S de RL,REG_LATAM,LATAM,Mexico,Mexico City,MXN,19.4326,-99.1332

@@ -1,0 +1,15 @@
+Product_SKU,Product_Name,SubCategory,Category,Base_Unit_Price,Target_GM_Pct
+HW-SRV-01,Novalis HyperEdge Rack Server X8,Servers & Storage,Enterprise Hardware,8500,0.42
+HW-SRV-02,Novalis CloudBlade Modular Blade Server,Servers & Storage,Enterprise Hardware,14200,0.45
+HW-NET-01,Novalis CoreSwitch 100G Multi-Port,Networking Gear,Enterprise Hardware,6200,0.48
+HW-NET-02,Novalis SecureGate Edge SD-WAN,Networking Gear,Enterprise Hardware,3800,0.5
+HW-IOT-01,Novalis Industrial IoT Smart Hub,Edge IoT Devices,Enterprise Hardware,1250,0.38
+IA-ROB-01,Novalis Precision Cobot Arm 6-Axis,Robotic Systems,Industrial Automation,28500,0.36
+IA-PLC-01,Novalis LogicMaster Modular PLC,Controllers & Drivers,Industrial Automation,4600,0.44
+IA-PLC-02,Novalis ServoDrive Dual-Vector,Controllers & Drivers,Industrial Automation,3100,0.4
+IA-SNS-01,Novalis OptiSense Vibration Analyzer,Industrial Sensors,Industrial Automation,850,0.55
+IA-SNS-02,Novalis ThermalView IR Sensor Array,Industrial Sensors,Industrial Automation,1600,0.52
+CS-SAS-01,Novalis Insight AI Operations Suite (Annual),SaaS Subscriptions,Cloud Solutions,18000,0.78
+CS-SAS-02,Novalis SecureZero Trust Gateway (Annual),SaaS Subscriptions,Cloud Solutions,12500,0.82
+CS-SVC-01,Novalis 24x7 Mission-Critical SLA Tier 1,Managed Services,Cloud Solutions,24000,0.65
+CS-SVC-02,Novalis Hybrid Cloud Migration Consulting,Managed Services,Cloud Solutions,15000,0.58
